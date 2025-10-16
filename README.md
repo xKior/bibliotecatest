@@ -88,6 +88,7 @@ pytest test/ -v --cov=src --cov-report=term-missing
 Al ejecutar `pytest test/ -v --cov=src --cov-report=html`:
 
 ```
+<img width="615" height="353" alt="image" src="https://github.com/user-attachments/assets/ec0a1475-d46f-4285-8d8a-42d42dafbbc2" />
 
 ```
 
